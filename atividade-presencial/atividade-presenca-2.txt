@@ -1,0 +1,6 @@
+Defina o que é:
+
+1) Sistema Isolado:
+Sistema onde arquivos que compõem o sistema estão colocados isoladamente, podendo apresentar redundância entre si.
+2) Sistema Integrado:
+Sistema com arquivos unidos, sem possibilidade de grandes redundâncias entre os dados que esses arquivos possuem.
