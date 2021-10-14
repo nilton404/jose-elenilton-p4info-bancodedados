@@ -1,0 +1,3 @@
+Explique a seguinte afirmação: "Um Modelo de refletir o seu aspecto temporal".
+
+Modelo de banco de dados onde são armazenadas apenas informações atuais, diferente de um modelo que apresentaria/apresenta informações infomações historicas.
