@@ -1,0 +1,21 @@
+Defina os seguintes conceitos centrais da abordagem ER:
+a) Entidade:
+Objetos que são desejados manter as informações no banco de dados.
+
+b) Relacionamento;
+São relações entre as entidades presentes num banco de dados.
+
+c) Atributo;
+Dado associado à uma entidade ou um relacionamento.
+
+d) Dominio de um Atributo;
+Conjunto de dados que pertecem a um atributo.
+
+e) Generalização/especialização;
+Atribuição de propiedades à um subconjunto de entidades.
+
+f) Entidade Associativa;
+Resultado de um relacionamento que passa a ser visto como uma entidade.
+
+g) Cardinalidade de um Atributo.
+Número de instâncias de uma entidade associada a outra instância de uma entidade.
