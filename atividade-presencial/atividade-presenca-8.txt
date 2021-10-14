@@ -1,0 +1,32 @@
+a) Tabela
+Estrutura básica que armazena os dados em linhas e colunas.
+
+b) Chave Primária
+Atributo que distingue um registro de outro, de forma que não
+haja dois registros com a mesma chave primária.
+
+c) Chave Estrangeira
+Chave que estabelece relação de uma tabela para a outra.
+
+d) Chave Alternativa
+Chave que pode ser utilizada como chave primária, mas não foi.
+
+e) Dominio da Coluna
+Tipo de dado utilizado na coluna.
+
+f) Integridade de Dominio
+Tipo de dado que deve ser utilizado numa determinada coluna.
+Eles devem sempre ser do tipo que foi definido para aquela coluna.
+
+g) Integridade de Vazio
+Fato de ser obrigado ou não colocar um dado numa
+coluna. Se for obrigado, não pode haver falta de dado nessa coluna.
+
+h) Integridade de Chave
+Valores da chave primária devem ser únicos, não pode haver mais de
+um registro com a mesma chave primária. Além disso, a chave primária não
+pode ser nula.
+
+i) Integridade Referencial
+Valores em uma determinada tabela são válidos baseados nos valores de outra
+determinada tabela.
