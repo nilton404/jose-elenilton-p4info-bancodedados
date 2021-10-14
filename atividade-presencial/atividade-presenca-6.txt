@@ -1,0 +1,9 @@
+Uma Entidade Associativa ocorre en relacionamentos n:n.
+Pede-se:
+a) Demonstre uma Entidade Associativa e descreva seus atributos.
+
+*Exemplo base: aplicativo Discord*
+
+Perfil: ID, Usuário, ícone.
+Servidor: Nome, membros, ícone, ID de servidor, chats.
+Bot: nome, comandos, prefixo, ID do bot.
