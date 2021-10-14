@@ -1,0 +1,13 @@
+Defina o que é:
+
+1) Dado  
+É um registro de objeto dentro do computador que representa algo com significado dentro do próprio de forma que possa ser lida pelo computador.
+
+2) Informação 
+Resultado ou reunião dos dados armazenados dentro do computador.
+
+3) Arquivo Convencional
+A maneira de se organizar os dados que deu origem ao banco de dados em si. Sistemas capazes de comprimir arquivos de maneira que ainda possam ser acessados.
+
+4) Banco de Dados
+Sistema onde é organizado e armazenado um conjunto de dados.
