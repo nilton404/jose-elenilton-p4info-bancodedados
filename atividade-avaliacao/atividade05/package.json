@@ -1,0 +1,16 @@
+{
+  "name": "atividade05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "knex": "^0.95.14",
+    "sqlite3": "^5.0.2"
+  }
+}
