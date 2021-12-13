@@ -1,4 +1,3 @@
-
 exports.up = function(knex) {
     return knex.schema.createTable('TB_ALUNOS', table => {
         table.increments('ID').primary()

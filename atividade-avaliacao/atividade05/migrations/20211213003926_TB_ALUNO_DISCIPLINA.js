@@ -1,4 +1,3 @@
-
 exports.up = function(knex) {
     return knex.schema.createTable('TB_USUARIOS_PERFIS', table => {
         table.real('NOTA').notNull()
